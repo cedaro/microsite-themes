@@ -1,0 +1,22 @@
+{
+  "name": "cedaro/microsite-themes",
+  "description": "A WordPress plugin to load custom themes based on the URL.",
+  "keywords": ["wordpress"],
+  "type": "wordpress-plugin",
+  "homepage": "https://github.com/cedaro/microsite-themes",
+  "license": "GPL-2.0+",
+  "authors": [
+    {
+      "name": "Brady Vercher",
+      "email": "brady@blazersix.com",
+      "homepage": "http://www.cedaro.com/"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/cedaro/microsite-themes/issues",
+    "source": "https://github.com/cedaro/microsite-themes"
+  },
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
